@@ -51,9 +51,8 @@ The project identified the highest-rated restaurants with a high volume of custo
 1.  **Clone the Repository:**
     ```bash
     git clone [[Your Repository URL](https://github.com/sreekarnati/Zomato_Restaurant_Analysis_EDA/edit/main/README.md)]
-    ```
-2.  **Ensure Data:** Place the `Zomato_Restaurants.csv` file in the root directory.
-3.  **Execute:** Run the script using Python:
+    ``
+2.  **Execute:** Run the script using Python:
     ```bash
     python Zomato_Restaurant_Analysis.py
     ```
